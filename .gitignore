@@ -1,2 +1,6 @@
 cmip6_data/
 old_scripts/
+processed_data/
+cdo.sh
+assignment2.R
+!processed_data/fldmean_data/
