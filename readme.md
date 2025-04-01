@@ -26,3 +26,7 @@ conda activate CMIP
 # to install new packages, add them to the env.txt file and run:
 conda install --file env.txt --channel conda-forge --override-channels --solver classic
 ```
+
+### Install Xming server
+
+Use the Xming setup provided with the repo and install it. It is used to visualise the netCDF files using NCVIEW.
