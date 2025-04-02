@@ -29,4 +29,4 @@ conda install --file env.txt --channel conda-forge --override-channels --solver 
 
 ### Install Xming server
 
-Use the Xming setup provided with the repo and install it. It is used to visualise the netCDF files using NCVIEW.
+Use the Xming setup file provided with the repo and install it. It is used to visualise the netCDF files using NCVIEW.
